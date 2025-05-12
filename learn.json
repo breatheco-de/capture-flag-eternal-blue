@@ -1,0 +1,26 @@
+{
+  "slug": "eternal-blue-remote-access-on-windows7",
+  "title": {
+    "es": "ETERNAL BLUE - Acceso remoto en Windows 7",
+    "en": "ETERNAL BLUE - Remote Access on Windows 7"
+  },
+  "preview": "https://github.com/4GeeksAcademy/capture-flag-eternal-blue/blob/main/preview.png?raw=true",
+  "solution": {
+    "us":"https://github.com/4GeeksAcademy/capture-flag-eternal-blue/blob/solution/SOLUTION.md",
+    "es": "https://github.com/4GeeksAcademy/capture-flag-eternal-blue/blob/solution/SOLUTION.es.md"},
+  "technologies": [
+    "cybersecurity",
+    "windows",
+    "smb",
+    "metasploit",
+    "red-team",
+    "owasp-a05-security-misconfiguration"
+  ],
+  "difficulty": "intermediate",
+  "duration": 2,
+  "projectType": "capture-the-flag",
+  "description": {
+    "es": "Examina un sistema Windows 7 vulnerable a EternalBlue, explota la falla con Metasploit y accede remotamente para obtener una flag desde el escritorio del usuario.",
+    "en": "Analyze a Windows 7 system vulnerable to EternalBlue, exploit the flaw using Metasploit, and remotely access the system to retrieve a flag from the user's desktop."
+  }
+}
