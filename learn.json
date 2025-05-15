@@ -4,10 +4,10 @@
     "es": "ETERNAL BLUE - Acceso remoto en Windows 7",
     "en": "ETERNAL BLUE - Remote Access on Windows 7"
   },
-  "preview": "https://github.com/4GeeksAcademy/capture-flag-eternal-blue/blob/main/preview.png?raw=true",
+  "preview": "https://github.com/breatheco-de/capture-flag-eternal-blue/blob/main/preview.png?raw=true",
   "solution": {
-    "us":"https://github.com/4GeeksAcademy/capture-flag-eternal-blue/blob/solution/SOLUTION.md",
-    "es": "https://github.com/4GeeksAcademy/capture-flag-eternal-blue/blob/solution/SOLUTION.es.md"},
+    "us":"https://github.com/breatheco-de/capture-flag-eternal-blue/blob/solution/SOLUTION.md",
+    "es": "https://github.com/breatheco-de/capture-flag-eternal-blue/blob/solution/SOLUTION.es.md"},
   "technologies": [
     "cybersecurity",
     "windows",
