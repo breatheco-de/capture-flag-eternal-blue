@@ -22,5 +22,13 @@
   "description": {
     "es": "Examina un sistema Windows 7 vulnerable a EternalBlue, explota la falla con Metasploit y accede remotamente para obtener una flag desde el escritorio del usuario.",
     "en": "Analyze a Windows 7 system vulnerable to EternalBlue, exploit the flaw using Metasploit, and remotely access the system to retrieve a flag from the user's desktop."
-  }
+  },
+  "delivery": {
+		"instructions": {
+			"us": "Paste the flag you found with format FLAG{hash}",
+			"es": "Agrega la bandera que encontraste con el formato FLAG{hash}"
+		},
+		"formats": ["flags"],
+		"quantity": 1
+	}
 }
